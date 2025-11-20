@@ -1,0 +1,61 @@
+[
+  {
+    "id": "q1",
+    "category": "Math",
+    "text": "What is 2 + 2?",
+    "options": [
+      {"id": "a", "text": "3"},
+      {"id": "b", "text": "4"},
+      {"id": "c", "text": "5"}
+    ],
+    "correctId": "b",
+    "explanation": "Adding 2 and 2 yields 4."
+  },
+  {
+    "id": "q2",
+    "category": "Logic",
+    "text": "If all A = B and all B = C, are all A = C?",
+    "options": [
+      {"id": "a", "text": "Yes"},
+      {"id": "b", "text": "No"}
+    ],
+    "correctId": "a",
+    "explanation": "Equality is transitive."
+  },
+  {
+    "id": "q3",
+    "category": "Language",
+    "text": "Choose the correctly written phrase:",
+    "options": [
+      {"id": "a", "text": "dontknow"},
+      {"id": "b", "text": "don't know"},
+      {"id": "c", "text": "dont know"}
+    ],
+    "correctId": "b",
+    "explanation": "The correct phrase is 'don't know'."
+  },
+  {
+    "id": "q4",
+    "category": "General Knowledge",
+    "text": "The capital of Serbia is?",
+    "options": [
+      {"id": "a", "text": "Novi Sad"},
+      {"id": "b", "text": "Belgrade"},
+      {"id": "c", "text": "Niš"}
+    ],
+    "correctId": "b",
+    "explanation": "The capital city of Serbia is Belgrade."
+  },
+  {
+    "id": "q5",
+    "category": "Science",
+    "text": "What is the chemical formula for water?",
+    "options": [
+      {"id": "a", "text": "O2"},
+      {"id": "b", "text": "H2O"},
+      {"id": "c", "text": "CO2"}
+    ],
+    "correctId": "b",
+    "explanation": "Water is made of two hydrogen atoms and one oxygen atom."
+  }
+]

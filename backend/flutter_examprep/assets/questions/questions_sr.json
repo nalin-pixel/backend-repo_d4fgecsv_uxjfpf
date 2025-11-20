@@ -1,0 +1,61 @@
+[
+  {
+    "id": "q1",
+    "category": "Matematika",
+    "text": "Koliko je 2 + 2?",
+    "options": [
+      {"id": "a", "text": "3"},
+      {"id": "b", "text": "4"},
+      {"id": "c", "text": "5"}
+    ],
+    "correctId": "b",
+    "explanation": "Sabiranjem brojeva 2 i 2 dobijamo 4."
+  },
+  {
+    "id": "q2",
+    "category": "Logika",
+    "text": "Ako su svi A = B i svi B = C, da li su svi A = C?",
+    "options": [
+      {"id": "a", "text": "Da"},
+      {"id": "b", "text": "Ne"}
+    ],
+    "correctId": "a",
+    "explanation": "Relacija jednakosti je tranzitivna."
+  },
+  {
+    "id": "q3",
+    "category": "Jezik",
+    "text": "Izaberite pravilno napisanu reč:",
+    "options": [
+      {"id": "a", "text": "neznam"},
+      {"id": "b", "text": "ne znam"},
+      {"id": "c", "text": "nezn am"}
+    ],
+    "correctId": "b",
+    "explanation": "Ispravno je pisati odvojeno: 'ne znam'."
+  },
+  {
+    "id": "q4",
+    "category": "Opšte znanje",
+    "text": "Glavni grad Srbije je?",
+    "options": [
+      {"id": "a", "text": "Novi Sad"},
+      {"id": "b", "text": "Beograd"},
+      {"id": "c", "text": "Niš"}
+    ],
+    "correctId": "b",
+    "explanation": "Glavni grad Srbije je Beograd."
+  },
+  {
+    "id": "q5",
+    "category": "Nauka",
+    "text": "Koja je hemijska oznaka za vodu?",
+    "options": [
+      {"id": "a", "text": "O2"},
+      {"id": "b", "text": "H2O"},
+      {"id": "c", "text": "CO2"}
+    ],
+    "correctId": "b",
+    "explanation": "Voda je hemijski spoj dva atoma vodonika i jednog atoma kiseonika."
+  }
+]
